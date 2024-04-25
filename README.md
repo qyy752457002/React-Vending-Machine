@@ -1,3 +1,7 @@
+![0d1f732798b59bec3afa031449ae1c9](https://github.com/qyy752457002/React-Vending-Machine/assets/88706924/21ab3b6a-9758-4b51-949c-cf751e3c726e)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
